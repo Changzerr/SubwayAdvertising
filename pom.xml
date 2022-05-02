@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.wx</groupId>
-    <artifactId>app</artifactId>
+    <artifactId>ad</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>app</name>
     <description>Demo project for Spring Boot</description>
@@ -48,7 +48,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
         </dependency>
-        
+
 
     </dependencies>
 
